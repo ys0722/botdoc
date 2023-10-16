@@ -4,7 +4,7 @@
 
 | 单聊                  | 群聊 | 文字子频道 | 频道私信 |
 | --------------------- | ---- | ---------- | -------- |
-| ![.](/docs/img/image002.png) |   ![.](/docs/img/image003.png)   |    ![.](/docs/img/image004.png)        |      ![.](/docs/img/image005.png)    |
+| ![单聊](https://github.com/ys0722/botdoc/blob/main/docs/img/image002.png?raw=true) |   ![群聊](https://github.com/ys0722/botdoc/blob/main/docs/img/image003.png?raw=true)   |    ![文字子频道](https://github.com/ys0722/botdoc/blob/main/docs/img/image004.png?raw=true)        |      ![频道私信](https://github.com/ys0722/botdoc/blob/main/docs/img/image005.png?raw=true)    |
 
 ​	 	 	 
 
