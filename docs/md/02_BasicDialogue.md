@@ -4,7 +4,7 @@
 
 | 单聊                  | 群聊 | 文字子频道 | 频道私信 |
 | --------------------- | ---- | ---------- | -------- |
-| ![](/docs/img/image002.png) |   ![](/docs/img/image003.png)   |    ![](/docs/img/image004.png)        |      ![](/docs/img/image005.png)    |
+| ![](https://github.com/ys0722/botdoc/blob/main/docs/img/image002.png) |   ![](https://github.com/ys0722/botdoc/blob/main/docs/img/image003.png)   |    ![](https://github.com/ys0722/botdoc/blob/main/docs/img/image004.png)        |      ![](https://github.com/ys0722/botdoc/blob/main/docs/img/image005.png)    |
 
 ​	 	 	 
 
@@ -23,8 +23,8 @@
 
 # 指令面板
 输入 / 或者 @机器人，唤起的一个操作面板，开发者可在机器人管理端自定义设置展示内容和点击动作。
-/	@	～	～
- 	 	～	～
+| / | @ | ～ | ～ |
+|  |  |  ～ | ～|
 # 自定义菜单
 
 单聊	～	～	～
