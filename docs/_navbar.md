@@ -2,6 +2,6 @@
   * [未上传]()
 
 * 文档地址
-  * [Github](https://github.com/ys0722/pdxjh)
+  * [Github](https://github.com/ys0722/botdoc)
 
 
