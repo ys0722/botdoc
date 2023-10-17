@@ -175,5 +175,5 @@ QQ机器人通过QQ开放平台上线后，需满足全域场景内机器人的�
 3、若您和腾讯之间发生任何纠纷或争议，首先应友好协商解决；协商不成的，您同意将纠纷或争议提交本规则签订地有管辖权的人民法院管辖。
 
 
-
+<meta name="baidu-site-verification" content="codeva-aXoTXwp8mQ" />
 <p align="right">腾讯公司</p>
