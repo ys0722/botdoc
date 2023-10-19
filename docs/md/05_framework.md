@@ -2,4 +2,4 @@
 
 接口通信基础框架
 
-![框架](https://github.com/ys0722/botdoc/blob/main/docs/img/kj.png?raw=true)
+![框架](https://gitee.com/zdck8/botdoc/blob/main/img/kj.png?raw=true)

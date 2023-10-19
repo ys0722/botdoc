@@ -1,4 +1,5 @@
 * [注册申请机器人](md/01_zhuce.md)
+* [机器人审核规则](md/examine.md)
 * 用户端功能简介
     * [基础对话](md/02_BasicDialogue.md)
     * [资料卡与设置](md/03_coverset.md)
